@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raulcontrerasmiranda
-- 👀 I’m interested in full-stack web development
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning the basics
 
 
